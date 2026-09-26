@@ -95,7 +95,9 @@ This practical demonstrated that password cracking tools are now
 highly accessible — even without installing specialist software, 
 a browser and the right tool is enough to crack weak passwords.
 
-![](networkwalks-password-cracker.png)
+![](networkwalks-password-cracker1.png)
+
+![](networkwalks-password-cracker2.png)
 
 ---
 
